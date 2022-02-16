@@ -1,4 +1,5 @@
 import "./index.css"
+import "../img/logo.svg"
 
 const WORDS = [
     'cigar',
